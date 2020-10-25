@@ -15,7 +15,7 @@
     {
       "id": "64",
       "firstName": "Ringo",
-      "age": "80",
+      "age": 91,
       "companyId": "1"
     },
     {
@@ -23,11 +23,6 @@
       "firstName": "Gemma",
       "age": "37",
       "companyId": "3"
-    },
-    {
-      "firstName": "Ahn",
-      "age": 40,
-      "id": "hm2R1jJ"
     }
   ],
   "companies": [
